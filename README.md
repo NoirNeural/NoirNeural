@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Hillary, im a Financial Data Scientist a.k.a Quant, creating insights through data analysis using Google Cloud Platform. Currently learning data, cloud and random stuff
+
 <!--
 **noirquant/noirquant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
