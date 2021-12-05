@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Hillary, im a Data Analyst, creating insights through data analysis using Google Cloud Platform. Currently learning data, cloud and random stuff
+My name is Hillary, im a Data Analyst and a python developer, creating insights through data analysis using Google Cloud Platform. Currently learning data, cloud and random stuff
 
 <!--
 **noirquant/noirquant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
